@@ -1,3 +1,7 @@
+"""Compares three numbers and give the smallest, 
+
+biggest and median """
+
 number1 = float(input("Enter Number1:  "))
 number2 = float(input("Enter Number2:  "))
 number3 = float(input("Enter Number3:  "))
